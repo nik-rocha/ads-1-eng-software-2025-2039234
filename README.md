@@ -1,12 +1,12 @@
-#📚 Diário de Engenharia de Software - {Nome do Aluno}
+## 📚 Diário de Engenharia de Software - {Nome do Aluno}
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software
 
 O uso das metodologias ágeis de desenvolvimento de software são muito utilizadas na área de programação para a organização do trabalho em equipe. Tais métodos evoluem com o passar do tempo, deixando de ser um processo simples organizacional para se transformar em uma forma produtiva e eficaz ao desenvolver um software. Uma boa metodologia melhora o cuidado que a equipe terá com requisitos do cliente e garante que existam menos riscos e atrasos no projeto.
 
-##📖 Metodologias Tradicionais
+## 📖 Metodologias Tradicionais
 
-###🛠️ Cascata
+### 🛠️ Cascata
  
 O Método Cascata (Waterfall), conhecido também como método tradicional, é uma das formas de realizar o gerenciamento de projetos, utilizando fases sequenciais, longo planejamento, projetos com custos, escopo e cronograma fixos. O método Waterfall é bastante indicado para projetos que têm requisitos bem definidos, no qual não são esperadas alterações. Suas características são:
 * Abordagem sistemática e sequencial;
@@ -15,13 +15,13 @@ O Método Cascata (Waterfall), conhecido também como método tradicional, é um
 * Requer especificação completa e bem entendida;
 * Dificulta a introdução de mudanças após o início do processo.
 
-###🌐 Espiral
+### 🌐 Espiral
 
 O Modelo Espiral, pertencente a metodologia tradicional, caracteriza-se por sua abordagem sequencial e sua divisão em 4 quadrado, definindo cada prioridade e suas importancia, um ciclo contínuo de fases, onde cada etapa é executada com o tempo, sendo algo quase infinito. Normalmente ele é enquadrado por quatro tópicos, sendo eles: Planejamento, Análise de Riscos, Engenharia e Atualizações feita pelo cliente.
 
-##💪 Metodologias Ágeis
+## 💪 Metodologias Ágeis
 
-###📖 Manifesto Ágil
+### 📖 Manifesto Ágil
 O Manifesto Ágil é uma declaração de princípios que fundamentam o desenvolvimento ágil de software, possuindo quatro pilares:
 
 1. Os indivíduos e suas interações acima de procedimentos e ferramentas;
@@ -44,17 +44,17 @@ Os 12 princípios do desenvolvimento ágil são os seguintes:
 * As melhores arquiteturas, requisitos e designs emergem de equipes auto-organizáveis;
 * Em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz e então refina e ajusta seu comportamento.
 
-##🏆 Scrum
+## 🏆 Scrum
 É uma metodoligia ágil utilizada no desenvolvimento de projetos complexos.
 
-###📅 Sprints
+### 📅 Sprints
 É um período de tempo curto e fixo em que uma equipe scrum trabalha e são realizados todos os eventos necessários para o desenvolvimento de funcionalidades que possam ser entregues ao final do período.
 1. Planejamento: o que pode ser feito nesse sprint e como vai ser feito.
 2. Implementação: desenvolver os itens da lista do backlog.
 3. Revisão: demonstrar e validar o que concluiu durante a implementação.
 4. Retrospectiva: identificarem o que pode ser melhorado para o próximo sprint.
 
-###💬 Cerimônias
+### 💬 Cerimônias
 1. Refinamento do backlog:
 No refinamento do backlog, você analisa as histórias dos usuários para o próximo sprint.
 2. Reunião de planejamento do sprint:
@@ -66,12 +66,12 @@ São reuniões diárias feitas para recapitular o que foi feito no dia anterior 
 5 Retrospectiva do sprint:
 É o momento que a equipe faz uma retrospectiva do sprint e avalia como tudo ocorreu.
 
-##🎯 Kanban
+## 🎯 Kanban
 (Explique o funcionamento do Kanban e sua aplicação.)
 O método Kanban, criado por David Anderson é uma estrutura usada para implementar o desenvolvimento de software Ágil e de DevOps. Grande parte de sua estrutura envolve comunicação de capacidade de tempo real e transparência total de trabalho. Nessa metodologia, tem o quadro Kanban, que é uma representação visual para que os membros da equipe possam visualizar a situação de cada parte do trabalho.
 Quadro Kanban é uma ferramenta de gerenciamento de projeto ágil que auxilia na visualização de trabalho, fazendo com que o fluxo do trabalho seja mais fluido e eficiente. O Kanban usa cartões, colunas e melhorias contínuas para ajudar as equipes de tecnologia e serviço a se comprometerem com a quantidade certa de trabalho e terminarem tudo dentro do prazo.
 
-##🚀 Extreme Programming (XP)
+## 🚀 Extreme Programming (XP)
 
 A metodologia XP é caracterizada por dividir o projeto em versões menores, assim facilitando a aceitação do cliente, minimizar os riscos e aumentar a probabilidade de desenvolver o produto do jeito do cliente.
 
@@ -85,11 +85,11 @@ O XP é basedo em cinco valores:
 Estes valores orientam as interações e práticas das equipes, garantindo um processo de desenvolvimento eficaz e colaborativo.
 
 
-##🔧 Ferramentas de Gestão de Desenvolvimento
+## 🔧 Ferramentas de Gestão de Desenvolvimento
 
-###💪 GitHub / GitLab
+### 💪 GitHub / GitLab
 1. GitHub: Plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git com a possibilidade de adicionar colaboradores no projeto.
 2. GitLab: Plataforma de desenvolvimento de software que permite gerenciar todo o ciclo de vida de um projeto com a possibilidade de adicionar colaboradores.
 
-###🎮 Jira / Trello
+### 🎮 Jira / Trello
 O Jira e Trello são ferramentas de gerenciamento de projetos  que ajudam a organizar tarefas e acompanhar todo o progresso  de um projeto com quadros Kanbam e Scrum.
