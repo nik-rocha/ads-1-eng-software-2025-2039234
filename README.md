@@ -1,6 +1,6 @@
 #📚 Diário de Engenharia de Software - {Nome do Aluno}
 
-##🔍 Introdução às Metodologias de Desenvolvimento de Software
+## 🔍 Introdução às Metodologias de Desenvolvimento de Software
 
 O uso das metodologias ágeis de desenvolvimento de software são muito utilizadas na área de programação para a organização do trabalho em equipe. Tais métodos evoluem com o passar do tempo, deixando de ser um processo simples organizacional para se transformar em uma forma produtiva e eficaz ao desenvolver um software. Uma boa metodologia melhora o cuidado que a equipe terá com requisitos do cliente e garante que existam menos riscos e atrasos no projeto.
 
